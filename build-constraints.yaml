@@ -3884,6 +3884,9 @@ packages:
 
     "Venkateswara Rao Mandela <venkat.mandela@gmail.com> @vmandela":
         - pandoc-csv2table
+    
+    "Luke Clifton <lukec@themk.net> @luke-clifton":
+        - generic-monoid
 
     "Grandfathered dependencies":
         - Boolean
